@@ -1,3 +1,4 @@
-def fizzbuzz(three)
+def fizzbuzz(number)
+  if 
   return "Fizz"
 end
