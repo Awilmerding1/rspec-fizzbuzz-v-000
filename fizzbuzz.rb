@@ -1,4 +1,4 @@
 def fizzbuzz(number)
-  if 
+  if number 
   return "Fizz"
 end
