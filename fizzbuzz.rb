@@ -9,3 +9,5 @@ else
   return nil
 end
 end
+
+fizzbuzz(3)
